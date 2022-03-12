@@ -10,6 +10,14 @@ const data = [
     link: "https://fostor.vercel.app/",
     title: "e commerce fostor website",
   },
+  {
+    id: 1,
+    img: "./images/weather-app.jpg",
+    alt: "weather-app",
+    github: "https://github.com/helkass/weather-app",
+    link: "https://weather-app-six-xi.vercel.app/",
+    title: "Weather App",
+  },
 ];
 
 const Card = () => {
